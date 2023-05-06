@@ -11,5 +11,5 @@ The information about the dataset is found https://docs.bittensor.com/nested/The
 ## How to Run
 
 Run git clone https://github.com/opentensor/clm_model_tuning.git
-Replace the content of finetune_using_clm.py in the reference repo
+Replace the content of finetune_using_clm2.py with finetune_using_clm2.py in the reference repo
 Run each notebook to finetune the gpt-neo-2.7B, gpt-j-6B and gpt-neeo-1.3B models on bittensor dataset.
