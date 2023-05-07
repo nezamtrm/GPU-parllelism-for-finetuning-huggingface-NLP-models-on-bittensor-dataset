@@ -1,4 +1,4 @@
-# GPU parallelism for finetuning three different huggingface models on Bittensor dataset
+# GPU parallelism for finetuning three different huggingface NLP models on Bittensor dataset
 
 In this repo, the Bittensor CLM finetuning script is converted to support multi gpus. The bittensor version of the script has been adapted from Hugging Face's transformers/language-modeling code and can be found here: https://github.com/opentensor/clm_model_tuning
 
